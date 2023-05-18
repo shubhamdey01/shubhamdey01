@@ -35,8 +35,9 @@ I’m an undergraduate student pursuing Bachelors of Science(B.Sc):Major in Comp
 </p>
 -->
 ---
-
+<!--
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhamdey01&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdey01&theme=tokyonight)
 ![Bishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamdey01&count_private=true&show_icons=true&theme=radical)
+-->
