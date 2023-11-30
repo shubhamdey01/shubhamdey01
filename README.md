@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I’m an undergraduate student pursuing Bachelors of Science(B.Sc):Major in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a graduate in Computer Science currently pursuing my Masters from BHU. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <!--
 ### 🛠 &nbsp;Languages and Tools :
