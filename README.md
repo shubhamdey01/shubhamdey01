@@ -15,8 +15,8 @@ As a tech enthusiast, I’m passionate about exploring new technologies, particu
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=shubhamdey01&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdey01&theme=react&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdey01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdey01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdey01&theme=react&hide_border=true)
 </div>
 
 ---
